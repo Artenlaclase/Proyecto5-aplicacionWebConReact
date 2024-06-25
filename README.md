@@ -1,6 +1,11 @@
-# React + Vite
+# Proyecto Api con React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**En proceso de construcción**
+plazo de entrega **"15 de julio 2024"**
+
+
+
+
 
 Currently, two official plugins are available:
 
